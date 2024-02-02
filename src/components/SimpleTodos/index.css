@@ -1,0 +1,32 @@
+.simple-todos-container {
+  background-color: #ffc2a0;
+  padding: 2rem 1.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  max-height: 100%;
+}
+
+.simple-todos-content-container {
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.simple-todos-header {
+  color: #ff8542;
+  font-size: 2rem;
+  text-align: center;
+}
+
+.todo-item-list-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
